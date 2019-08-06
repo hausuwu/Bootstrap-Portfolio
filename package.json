@@ -1,0 +1,21 @@
+{
+  "name": "Bootstrap-Portfolio",
+  "version": "1.0.0",
+  "description": "homework 02 bootstrap powered portfolio",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hausuwu/Bootstrap-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hausuwu/Bootstrap-Portfolio/issues"
+  },
+  "homepage": "https://github.com/hausuwu/Bootstrap-Portfolio#readme"
+}
